@@ -1,5 +1,6 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
+Date : 06-11-2025
 
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
@@ -123,9 +124,12 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
+<img width="667" height="632" alt="Screenshot 2025-11-06 142558" src="https://github.com/user-attachments/assets/6b8c901f-3e99-482e-9ba6-64ec7f481e58" />
+
 
 $ ipcs
 
+<img width="605" height="119" alt="Screenshot 2025-11-06 142932" src="https://github.com/user-attachments/assets/83427bfe-8936-44ae-b85b-57aaf500d800" />
 
 
 
